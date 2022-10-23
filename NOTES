@@ -1,0 +1,3 @@
+Goals for this project,
+create a small car using a rpi that can use a camera and a small lidar to navigate around a course
+really, just a small agv, just to flex the power of ros2
